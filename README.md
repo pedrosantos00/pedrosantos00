@@ -1,6 +1,6 @@
 ### Hey 👋
 
-This year, I’ve got my IT course by Rumos company. This course aims more for Help Desk and I’ve been developing mainly troubleshooting hardware and software problems. I’m more experienced in working with hardware knowledge (component installation and network management), creating virtual machines, knowledge of operating systems (Linux, Windows and MacOS) and working with the following software: winSCP, VirtualBox, Vmware, Office365 and Visual Studio. I’ve been looking forward to improve my knowledge of AD, PowerShell, SQL databases and programming language such as C#, HTML, CSS and JS. Although I’m more in the area of Help Desk, in the future I’m looking forward to build on my programming language skills.
+I’ve got my IT course by Rumos company. This course aims more for Help Desk and I’ve been developing mainly troubleshooting hardware and software problems. I’m more experienced in working with hardware knowledge (component installation and network management), creating virtual machines, knowledge of operating systems (Linux, Windows and MacOS) and working with the following software: winSCP, VirtualBox, Vmware, Office365 and Visual Studio. I’ve been looking forward to improve my knowledge of AD, PowerShell, SQL databases and programming language such as C#, HTML, CSS and JS. Although I’m more in the area of Help Desk, in the future I’m looking forward to build on my programming language skills. I'm taking a course : CODE DEVELOPER .
 
 
 ## **Linguagens e Ferramentas:**  
