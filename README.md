@@ -1,6 +1,8 @@
 ### Hey 👋
 
-I’ve got my IT course by Rumos company. This course aims more for Help Desk and I’ve been developing mainly troubleshooting hardware and software problems. I’m more experienced in working with hardware knowledge (component installation and network management), creating virtual machines, knowledge of operating systems (Linux, Windows and MacOS) and working with the following software: winSCP, VirtualBox, Vmware, Office365 and Visual Studio. I’ve been looking forward to improve my knowledge of AD, PowerShell, SQL databases and programming language such as C#, HTML, CSS and JS. Although I’m more in the area of Help Desk, in the future I’m looking forward to build on my programming language skills. I'm taking a course : CODE DEVELOPER .
+I'm an IT specialist with experience in hardware and software solutions. I completed the Técnico informática Rumos course and the Code Developer Rumos program to become a full-stack .NET developer.
+I have technical skills and strong communication abilities. I'm eager to take on new challenges and always strive for excellence in my work. I am punctual, organized, and adaptable, making me a reliable professional.
+I am confident in my ability to deliver results and make a positive impact in my field. Let's work together and succeed on any project.
 
 
 ## **Linguagens e Ferramentas:**  
