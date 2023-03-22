@@ -76,5 +76,5 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosantos00&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosantos00&langs_count=10&hide_border=true&layout=compact" align="center" /></div>  
 
