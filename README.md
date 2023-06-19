@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Angular  
   
 
-- 🔍 I'm looking for a part-time Job as Developer  
+- 🔍 I'm looking for Job as Developer  
   
 
 <br/>  
