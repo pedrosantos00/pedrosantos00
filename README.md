@@ -4,7 +4,7 @@
 ### <div align="center">I'm Pedro, a junior full-stack developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on [Prosonic](https://www.prosonic.pt)  
+- 🔭 I’m currently working on [Prosonic](https://www.prosonic.pt) as IT Support Specialist
   
 
 - 🌱 I’m currently learning Angular  
