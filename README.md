@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on [Prosonic](https://www.prosonic.pt) as IT Support Specialist
   
 
-- 🌱 I’m currently learning Angular  
+- 🌱 I’m currently learning Angular 14 / .NET 6 / AZURE FUNDAMENTALS
   
 
 - 🔍 I'm looking for Job as Developer  
