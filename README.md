@@ -1,16 +1,13 @@
 # **👋Hey**  
   
 
-### <div align="center">I'm Pedro, a junior full-stack developer 👨‍💻 </div>  
+### <div align="center">I'm Pedro, a Full-Stack Developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on [Prosonic](https://www.prosonic.pt) as IT Support Specialist
+- 🔭 I’m currently working on [CardExchange](https://www.cardexchangeid.com) as Full Stack Developer
   
 
-- 🌱 I’m currently learning Angular 14 / .NET 6 / AZURE FUNDAMENTALS
-  
-
-- 🔍 I'm looking for Job as Developer  
+- 🌱 I’m currently learning Angular / .NET / AZURE FUNDAMENTALS
   
 
 <br/>  
