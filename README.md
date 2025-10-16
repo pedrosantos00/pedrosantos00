@@ -1,9 +1,9 @@
 ### <div align="center">I'm Pedro, a Full-Stack Developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [CardExchange](https://www.cardexchangeid.com) as Full Stack Developer  
+- 🔭 I’m currently working on [MARLO](https://www.marlo.no/en/) as Full Stack Developer  
 
-- 🌱 Currently enhancing my skills in Angular, .Net 8 and Azure to better meet the demands of modern web and cloud applications.
+- 🌱 Currently enhancing my skills in Angular, .Net 10 and Azure to better meet the demands of modern web and cloud applications.
 
 - 🎓 I’m taking a Computer Engineering degree at [ISTEC School](https://www.istec.pt)
 <br/>  
