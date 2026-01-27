@@ -1,97 +1,136 @@
-### <div align="center">I'm Pedro, a Full-Stack Developer 👨‍💻</div>  
-  
-
-- 🔭 I’m currently working on [MARLO](https://www.marlo.no/en/) as Full Stack Developer  
-
-- 🌱 Currently enhancing my skills in Angular, .Net 10 and Azure to better meet the demands of modern web and cloud applications.
-
-- 🎓 I’m taking a Computer Engineering degree at [ISTEC School](https://www.istec.pt)
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
-<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
-<a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
 <div align="center">
-<a href="https://linkedin.com/in/pedrosantos00" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/pedrosantos00" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/20454555/pedro-santos" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
 
-<br/>  
+# Hey, I'm Pedro! 👋
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=520&lines=Full-Stack+Developer;.NET+%7C+Angular+%7C+Azure;Building+scalable+web+applications" alt="Typing SVG" />
 
-## Github Stats  
-<table style="overflow : hidden!important"><tr><td valign="top" width="50%" >
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=pedrosantos00&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%;  height:100%;" />
+**Full-Stack Developer** building digital solutions at [MARLO](https://www.marlo.no/en/) 🇳🇴
 
-</td><td valign="top" width="40%" style="overflow : hidden">
+Currently pursuing a Computer Engineering degree at [ISTEC](https://www.istec.pt) 🎓
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosantos00&hide_border=true&layout=compact" align="left" style="width: 100%;  height:100%;"/>
+<br/>
 
-</td></tr></table>  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrosantos00)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pedrosantos00)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/20454555/pedro-santos)
 
-<br/>    
-  
+</div>
 
-<br/>  
+---
+
+<div align="center">
+
+### 💼 About Me
+
+</div>
+
+I'm a passionate developer focused on building scalable, high-performance web and mobile applications. I work daily with the .NET ecosystem and Angular, delivering full-stack solutions for international clients.
+
+My current focus is on deepening my knowledge in **cloud architecture with Azure**, **microservices**, and **DevOps practices** to deliver quality software continuously.
+
+I believe good code is clean, testable, and well-documented. I enjoy learning new technologies and sharing knowledge with the community.
+
+---
+
+<div align="center">
+
+### 🛠️ Tech Stack
+
+<br/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,tailwind,sass,bootstrap" />
+
+<br/><br/>
+
+**Mobile**
+
+<img src="https://skillicons.dev/icons?i=flutter,dart" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" height="48" alt="Ionic" />
+
+<br/><br/>
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,php,nodejs" />
+
+<br/><br/>
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,postgresql" />
+
+<br/><br/>
+
+**DevOps & Cloud**
+
+<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,git,linux,bash" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎯 Currently Learning
+
+</div>
+
+- 📐 **Software Architecture** — Clean Architecture, Domain-Driven Design, CQRS
+- ☁️ **Azure** — Azure Functions, Service Bus, Container Apps, DevOps Pipelines
+- 🔄 **Microservices** — Async communication, Event-Driven Architecture
+- 🧪 **Testing** — Unit Testing, Integration Testing, TDD
+- 📈 **Performance** — Query optimization, caching strategies, profiling
+
+---
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=pedrosantos00&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=pedrosantos00&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrosantos00&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=pedrosantos00&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=pedrosantos00&theme=default&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrosantos00&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=pedrosantos00&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=pedrosantos00&theme=minimal&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrosantos00&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" width="95%"/>
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🐍 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrosantos00/pedrosantos00/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedrosantos00/pedrosantos00/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/pedrosantos00/pedrosantos00/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=pedrosantos00&style=flat-square&color=58A6FF&label=Profile+Views" />
+
+</div>
